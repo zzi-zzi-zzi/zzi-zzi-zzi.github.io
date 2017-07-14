@@ -1,6 +1,6 @@
 ---
 title: Mew - General
-permalink: mew/general.html
+permalink: /mew/general.html
 ---
 
 # General Tab
